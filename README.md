@@ -1,3 +1,29 @@
+# DrissionPage
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Python based web automation tool. Powerful and elegant.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+基于 Python 的强大而优雅的网页自动化工具。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # ✨️ 概述
 
 DrissionPage 是一个基于 python 的网页自动化工具。
